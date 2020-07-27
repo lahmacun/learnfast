@@ -6,6 +6,6 @@ Screen Shots
 ---------
 ![App](https://github.com/lahmacun/learnfast/blob/master/screenshots/home.gif?raw=true)
 
-![Add Word](https://github.com/lahmacun/learnfast/blob/master/screenshots/add-word.jpg?raw=true)
+![Add Word](https://github.com/lahmacun/learnfast/blob/master/screenshots/add-word.jpeg?raw=true)
 
-![Word List](https://github.com/lahmacun/learnfast/blob/master/screenshots/word-list.jpg?raw=true)
+![Word List](https://github.com/lahmacun/learnfast/blob/master/screenshots/word-list.jpeg?raw=true)
